@@ -1,0 +1,14 @@
+.Copy_Right_Footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
+img{
+    box-shadow:0 6px 8px rgba(2,2,2,0.2)
+}
+img:hover{
+    border-radius: 140px;
+}
+
+body {background-color: purple;}
